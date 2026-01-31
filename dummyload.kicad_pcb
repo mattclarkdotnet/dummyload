@@ -33096,11 +33096,11 @@
 		(layer "F.Cu")
 		(uuid "701e3abb-8da5-401e-bad2-e640c75485a8")
 		(pts
-			(xy 175 22.83381) (xy 175 142.83381)
+			(xy 145 22.83381) (xy 145 142.83381)
 		)
 		(height 0)
 		(gr_text "120.0000 mm"
-			(at 173.2 82.83381 90)
+			(at 143.2 82.83381 90)
 			(layer "F.Cu")
 			(uuid "701e3abb-8da5-401e-bad2-e640c75485a8")
 			(effects
